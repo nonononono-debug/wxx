@@ -1,0 +1,11 @@
+#v3版本星火大模型的请求地址
+HOST_URL=wss://spark-api.xf-yun.com/v3.1/chat
+SPARK_DOMAIN=generalv3
+APPID=e3751b8c
+API_SECRET=OWVlNmJiMmE0MWQ5MTk3ZTg0ODI1OGU4
+API_KEY=22a48f3afe998245e962d82c0f35ce1f
+WX_TOKEN=微信公众号TOKEN(3-32位字母随意取值,但要记住, 后面要用)
+#这一项是关键词自动回复，是个json串，用于对特定关键词回复不同内容
+KEYWORD_REPLAY={"hello":"world"}
+#订阅回复
+SUBSCRIBE_REPLY=欢迎关注。
